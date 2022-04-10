@@ -5,13 +5,13 @@
 
 #### Per age group
 
-![](/home/pero/code/croatia_excess_deaths/img/cro_excess_all.png)
+![](img/cro_excess_all.png)
 
 #### Z score per age group
 
-![cro_excess_all_z_score](/home/pero/code/croatia_excess_deaths/img/cro_excess_all_z_score.png)
+![](img/cro_excess_all_z_score.png)
 
 #### All age groups
 
-![cro_excess](/home/pero/code/croatia_excess_deaths/img/cro_excess.png)
+![](img/cro_excess.png)
 
