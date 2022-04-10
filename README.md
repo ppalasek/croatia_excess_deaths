@@ -15,3 +15,4 @@
 
 ![](img/cro_excess.png)
 
+![](img/cro_excess_under_60.png)
