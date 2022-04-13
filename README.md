@@ -10,15 +10,19 @@
 
 ![](img/cro_excess_all_z_score.png)
 
+##### same y axis
+
+![](img/cro_excess_all_z_score.png_same_y.png)
+
 
 
 #### Z score per age group (cumulative deaths)
 
 ![](img/cro_excess_all_z_score_cumul.png)
 
+##### same y axis
 
-
-
+#### ![](img/cro_excess_all_z_score_cumul_same_y.png)
 
 #### All age groups
 
