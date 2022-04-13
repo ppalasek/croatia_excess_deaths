@@ -12,7 +12,7 @@
 
 ##### same y axis
 
-![](img/cro_excess_all_z_score.png_same_y.png)
+![](img/cro_excess_all_z_score_same_y.png)
 
 
 
