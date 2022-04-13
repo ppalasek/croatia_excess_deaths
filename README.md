@@ -6,9 +6,19 @@
 
 
 
-#### Z score per age group
+#### Z score per age group (per week)
 
 ![](img/cro_excess_all_z_score.png)
+
+
+
+#### Z score per age group (cumulative deaths)
+
+![](img/cro_excess_all_z_score_cumul.png)
+
+
+
+
 
 #### All age groups
 
