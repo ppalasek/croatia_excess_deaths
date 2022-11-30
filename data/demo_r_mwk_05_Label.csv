@@ -1,8 +1,8 @@
 "DATASET: Deaths by week, sex and 5-year age group [demo_r_mwk_05]"
 
-"LAST UPDATE: 30.08.22 17:17:22"
+"LAST UPDATE: 29.11.22 02:10:56"
 
-"EXTRACTION DATE: 01.09.22 13:30:13"
+"EXTRACTION DATE: 30.11.22 13:19:19"
 
 "SOURCE OF DATA: Eurostat"
 
@@ -1190,6 +1190,19 @@
 "2022W31"
 "2022W32"
 "2022W33"
+"2022W34"
+"2022W35"
+"2022W36"
+"2022W37"
+"2022W38"
+"2022W39"
+"2022W40"
+"2022W41"
+"2022W42"
+"2022W43"
+"2022W44"
+"2022W45"
+"2022W46"
 
 "GEO"
 "Croatia"
@@ -1219,8 +1232,6 @@
 
 "SEX"
 "Total"
-"Males"
-"Females"
 
 "UNIT"
 "Number"
