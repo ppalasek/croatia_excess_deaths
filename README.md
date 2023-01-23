@@ -1,7 +1,7 @@
 ### Croatia excess deaths
 
 * compared to 2015-2019 average
-* data from: https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=demo_r_mwk_05&lang=en
+* data from: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_05/default/table
 * population data from: https://podaci.dzs.hr/media/vb1ae2vm/procjene-stanovnistva.xlsx
 
 
